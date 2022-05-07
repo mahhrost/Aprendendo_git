@@ -1,0 +1,20 @@
+..............................Aula 2 - 30/04/22 ................................
+Faça uma pesquisa de definição de cada um dos termos ao lado em um arquivo de texto
+Sprint-
+ Sprint é uma ferramenta para atingir objetivos em um determinado período de tempo – de preferência, em ritmo acelerado. Para isso, ele ajuda a organizar o desenvolvimento de um projeto ou de um problema ao dividi-lo em tarefas menores que devem ser cumpridas normalmente ao longo de uma, duas ou três semanas.
+Productbacklog-
+Product Backlog, ou Backlog do Produto, é uma lista ordenada de tudo o que é necessário para chegar no produto final de um projeto de desenvolvimento de software.
+Sprintbacklog-
+O Backlog da Sprint é um conjunto de itens do Backlog do Produto selecionados para a Sprint (representado na forma de um Quadro de Tarefas), juntamente com o plano para entregar o incremento "Pronto" e atingir a Meta da Sprint.
+Daily meeting-
+O que é Daily Meeting? A famosa Daily Scrum, também conhecida por Reuniões diárias, Daily Meeting, Stand-Up Meeting, Daily Stand-Up ou até mesmo Scrum Diário é uma reunião diária, de 15 minutos, para discutir o que foi feito, qual o plano para as próximas 24 horas e o que tanto está impedindo o time de avançar.
+Sprint review-
+Muitas vezes ignorada, a Revisão de Sprint (Sprint Review), também conhecida como “Demonstração do Produto”, é um ponto essencial para verificação do produto. Revisar a situação do projeto no final de cada Sprint é um passo muito importante para analisar o que já foi feito até aquele momento e como prosseguir adiante.
+Sprint retrospective-
+Sprint Retrospective, a Retrospectiva do Sprint, ocorre após a revisão do Sprint e antes do próximo Planning Sprint. Esta é uma reunião normalmente de no máximo três horas para Sprint de um mês. Para Sprints mais curtos, o evento geralmente também é mais curto.
+Scrum Master-
+O mestre de Scrum faz a facilitação do Scrum para equipes maiores garantindo que a estrutura seja seguida. É uma pessoa que tem o compromisso com os valores e práticas do Scrum, mas também deve manter a flexibilidade e a abertura para oportunidades de melhorar o fluxo de trabalho da equipe.
+Productowner-
+Função: Product Owner. O Product Owner representa os interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog. O Product Owner tem as seguintes responsabilidades: Definir as funcionalidades do produto (Backlog do Produto);
+Sprint Planning
+ É a reunião do Scrum, na qual é feito o planejamento de um Sprint. O propósito da Sprint Planning é alinhar o time de desenvolvimento e o Product Owner.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
